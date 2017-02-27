@@ -1,0 +1,2 @@
+<h1>Google-map-with-address-picker-and-form-validation</h1>
+<h2>This is the simple project about address picker from google map and form validation...</h2> here you can make use of google map with form ...i think it will more help full to every one who is new for the jquery google map plug in ... here i was fully developed the address picker from the googl;e map and simple form validation ... make use of it guys ... <h3>have a great day...</h3>
